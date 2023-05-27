@@ -25,8 +25,10 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 import Goto from "./goto.png";
 import Traveloka from "./traveloka.png";
+import Kontras from "./kontras.png";
 
 export {
+  Kontras,
   Traveloka,
   Goto,
   airbnb,
