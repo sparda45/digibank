@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Ga nyesel pakai digibank, bisa diakses kapanpun tanpa terikat jam operasional bank. Layanan yang diberikan oleh bank digital bisa diakses selama 24 jam tanpa adanya batasan, sehingga memudahkan nasabah ketika melakukan transaksi di luar jam operasional.",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Founder & Leader Benih",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "Layanan digital bank ini luar biasa! Transaksi cepat dan mudah, bisa dilakukan kapan saja dan di mana saja melalui smartphone. Keamanan terjaga dengan baik dan layanan pelanggan responsif. Very Recommended",
+    name: "Nuraini",
+    title: "CEO Abba Foundation",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      " Dengan digibank, saya bisa mengatur keuangan saya dengan mudah dan praktis. Transfer uang dan pembayaran tagihan hanya dalam beberapa klik. Saya benar-benar terkesan dengan kecepatan dan keamanannya. Layanan pelanggan juga sangat membantu dan ramah. Saya sangat puas dengan penggunaan digital bank ini!",
+    name: "Zhavira Aisyah",
+    title: "Lead of GDSC",
     img: people03,
   },
 ];
