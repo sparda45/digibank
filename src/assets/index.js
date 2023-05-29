@@ -1,4 +1,5 @@
-import DB from "./db.png";
+import DB from "./db.svg";
+import DBL from "./coba.svg";
 import airbnb from "./airbnb.png";
 import bill from "./bill.png";
 import binance from "./binance.png";
@@ -29,16 +30,23 @@ import Traveloka from "./traveloka.png";
 import Kontras from "./kontras.png";
 import OJK from "./ojk.png"
 import BI from "./Bi.png"
-import Sheren from "./seren.jpg"
-import Desmon from "./desmon.jpg"
-import Willy from "./willy.jpg"
-import Jopan from "./jopan.jpg"
+import Sheren from "./seren.png"
+import Desmon from "./desmon.png"
+import Willy from "./willy.png"
+import Jopan from "./jopan.png"
+import Dyz from "./dyz.png"
+import Left from "./left.svg"
+import Right from "./right.svg"
 
 
 export {
+  Right,
+  Left,
+  DBL,
   DB,
   BI, 
   OJK,
+  Dyz,
   Sheren,
   Desmon,
   Willy,

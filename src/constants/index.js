@@ -1,4 +1,21 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, Traveloka, Goto, Kontras, logo, OJK, BI  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, Traveloka, Goto, Kontras, logo, OJK, BI, Desmon, Jopan, Sheren, Willy  } from "../assets";
+
+export const founder = [
+  {
+    img:Desmon
+  },
+  {
+    img:Jopan
+  },
+  {
+    img:Sheren
+  },
+  {
+    img:Willy
+  }
+
+
+]
 
 export const navLinks = [
   {
