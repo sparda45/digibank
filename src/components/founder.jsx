@@ -28,7 +28,7 @@ const Founder = () => {
           <img src= {Desmon} alt="landing page" width="w-full" className="hover:opacity-60 hover:shadow-lg transition duration-500" />
           </a>
         </div>
-        <h3 class="font-semibold text-xl text-dark mt-5 mb-3 text-center dark:text-white">Desmon Orix Koermala</h3>
+        <h3 class="font-semibold text-xl text-dark mt-5 mb-3 text-center dark:text-white">Desmond Orix Khoermala</h3>
         <p class="font-medium text-center text-lg text-secondary"> COO </p>
       </div>
     {/* role nya 3 */}
