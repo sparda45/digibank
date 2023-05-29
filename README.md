@@ -1,7 +1,8 @@
 # digibank - Modern UI/UX website using React.js & Tailwind CSS
 
 ### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 npm start to start
+💻 npm install vite untuk menginstall library vite
+💻 npm run dev untuk view
 
 Nama Kelompok : 
 1. Desmond Orix Khoermala - 20210801136
