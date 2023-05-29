@@ -28,9 +28,8 @@ const Hero = () => {
           Payment Method.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Our team of experts uses a methodology to identify the credit cards
-          most likely to fit your needs. We examine annual percentage rates,
-          annual fees.
+          Lakukan transaksi hanya dari handphone anda, kapanpun dan di manapun anda berada.
+          Semua dapat anda lakukan hanya dalam satu aplikasi. Digibank kini hadir untukmu.
         </p>
       </div>
 

@@ -1,3 +1,4 @@
+import DB from "./db.png";
 import airbnb from "./airbnb.png";
 import bill from "./bill.png";
 import binance from "./binance.png";
@@ -26,8 +27,22 @@ import people03 from "./people03.png";
 import Goto from "./goto.png";
 import Traveloka from "./traveloka.png";
 import Kontras from "./kontras.png";
+import OJK from "./ojk.png"
+import BI from "./Bi.png"
+import Sheren from "./seren.jpg"
+import Desmon from "./desmon.jpg"
+import Willy from "./willy.jpg"
+import Jopan from "./jopan.jpg"
+
 
 export {
+  DB,
+  BI, 
+  OJK,
+  Sheren,
+  Desmon,
+  Willy,
+  Jopan,
   Kontras,
   Traveloka,
   Goto,
